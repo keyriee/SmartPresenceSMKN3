@@ -1,3 +1,26 @@
+SEBELUM INSTALASI :
+# Mengaktifkan Ekstensi INTL dan MBSTRING di XAMPP
+- Buka aplikasi XAMPP dengan run as administrator
+- Klik menu Config, Kemudian klik php.ini
+- Cari Tulisan intl . supaya cepat bisa langsung klik ctrl+f kemudian cari tulisan intl. Jika sudah 
+ketemu, hapus tanda titik koma yg ada di belakang tulisan extension=intl
+- Jika sudah, kemudian Save
+
+
+# Import Database dari folder Database ke MySQL
+
+Login Admin - Email id : Admin1@gmai.com
+              Password : 123
+
+Login Guru  - Email id : keyrie@gmail.com
+              Password : 999
+
+![login](https://github.com/keyriee/SmartPresenceSMKN3/assets/49862418/c2069762-b1e5-4587-b591-59e3dfbef90d)
+
+![admin](https://github.com/keyriee/SmartPresenceSMKN3/assets/49862418/6ad61a8d-c039-4001-a719-0b612119bcb7)
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?

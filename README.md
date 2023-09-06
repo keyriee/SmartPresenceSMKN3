@@ -9,7 +9,7 @@ ketemu, hapus tanda titik koma yg ada di belakang tulisan extension=intl
 
 # Import Database dari folder Database ke MySQL
 
-Login Admin - Email id : Admin1@gmai.com
+Login Admin - Email id : Admin1@gmail.com
               Password : 123
 
 Login Guru  - Email id : keyrie@gmail.com
